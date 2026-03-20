@@ -60,7 +60,7 @@ window.ChatWidgetConfig = {
     route: '',
   },
   branding: {
-    logo: '/AlgemateLogo.png',
+    logo: 'images/AlgemateLogo.png',
     name: 'Algebot',
     welcomeText: 'Gerne helfen wir weiter! 😊 Schreib mir einfach deine Frage zu Algemate.',
     responseTimeText: 'Algebot antwortet normalerweise innerhalb weniger Augenblicke.',
